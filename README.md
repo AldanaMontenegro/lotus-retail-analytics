@@ -155,7 +155,10 @@ Estos valores describen la **versión visualizada del dashboard** y no necesaria
 Lotus-Retail/
 ├── README.md
 ├── SQL-LotusRetail.sql
-└── ProyectoLotus.pbix
+├── ProyectoLotus.pbix
+│
+└── images/
+    └── dashboard-principal.png
 ```
 
 **Para explorar el proyecto:** revisar el archivo SQL en SQL Server Management Studio y abrir `ProyectoLotus.pbix` con Power BI Desktop. Para actualizar datos desde otra computadora puede ser necesario reconfigurar la conexión al servidor SQL y sus credenciales.
@@ -164,6 +167,17 @@ Lotus-Retail/
 
 - **Dataset original:** [Lotus Retail Dataset – Power BI (Multi tables) — Kaggle](https://www.kaggle.com/datasets/abdelrahmanmahmoud22/lotus-group-retail-star-schema-bi).
 - **Desarrollo del proyecto:** preparación y validación de datos en SQL, construcción del modelo analítico, medidas y dashboard en Power BI.
+
+## 9. Uso de inteligencia artificial como herramienta de apoyo
+
+Durante el desarrollo del proyecto se utilizó inteligencia artificial de manera complementaria, principalmente como herramienta de consulta, asistencia técnica y verificación en la elaboración de determinadas medidas DAX en Power BI.
+
+Su utilización estuvo orientada a facilitar la comprensión de funciones, contrastar enfoques de cálculo y validar posibles soluciones.
+
+El análisis de los datos, la construcción del modelo, la selección de indicadores, el diseño de las visualizaciones y la interpretación de los resultados se desarrollaron como parte del trabajo práctico y analítico del proyecto.
+
+La inteligencia artificial se empleó como **recurso de apoyo al proceso de desarrollo**, sin sustituir el criterio analítico ni la toma de decisiones sobre la implementación final.
+
 
 ---
 
