@@ -133,11 +133,12 @@ Estos valores describen la **versión visualizada del dashboard** y no necesaria
 
 ### Hallazgos
 
-- **Concentración de ventas por producto:** el dashboard identifica a **Polo Shirt 2068** como producto de mayor venta en la vista general. Esto permite focalizar el seguimiento de su desempeño, precio y disponibilidad.
+- **Productos con mejor rendimiento identificados:** El dashboard focaliza el seguimiento del desempeño, precio y disponibilidad de los mismos.
 - **Desempeño desigual entre sucursales:** la tabla comparativa muestra diferencias en clientes, productos vendidos y ventas efectivas entre locales, lo que justifica analizar su productividad de forma individual.
 - **Variabilidad mensual:** la serie de ventas presenta fluctuaciones entre meses; conviene profundizar en su evolución por año y evitar interpretar esa variación como estacionalidad sin una comparación interanual adicional.
 - **Contribución por subcategoría:** el reporte permite distinguir subcategorías con mayor volumen de unidades, información útil para priorizar el análisis comercial.
 - **Estados de pedidos:** la separación entre pedidos completados, cancelados y devueltos permite diferenciar los resultados efectivos de las operaciones que no terminaron como ventas definitivas.
+- **Tendencias de ventas observadas a lo largo del tiempo.**
 
 ### Oportunidades de mejora
 
