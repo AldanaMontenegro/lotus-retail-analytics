@@ -133,12 +133,14 @@ Estos valores describen la **versión visualizada del dashboard** y no necesaria
 
 ### Hallazgos
 
-- **Productos con mejor rendimiento identificados:** El dashboard focaliza el seguimiento del desempeño, precio y disponibilidad de los mismos.
-- **Desempeño desigual entre sucursales:** la tabla comparativa muestra diferencias en clientes, productos vendidos y ventas efectivas entre locales, lo que justifica analizar su productividad de forma individual.
-- **Variabilidad mensual:** la serie de ventas presenta fluctuaciones entre meses; conviene profundizar en su evolución por año y evitar interpretar esa variación como estacionalidad sin una comparación interanual adicional.
+- **Rentabilidad por producto:** El dashboard focaliza el seguimiento del desempeño, precio y disponibilidad de los productos. El análisis de precios de venta, costos y márgenes permite identificar productos con diferentes niveles de contribución económica.
+- **Relación entre volumen y margen:** Los productos con mayor cantidad de unidades vendidas no necesariamente son los que generan mayores márgenes, por lo que resulta relevante evaluar ambas variables conjuntamente.
+- **Desempeño desigual entre sucursales:** La comparación de ventas, empleados y clientes entre establecimientos permite identificar diferencias operativas y oportunidades para profundizar el análisis de productividad.
+- **Cumplimiento de objetivos de ventas:** El seguimiento de metas comerciales por producto permite identificar desviaciones entre los resultados esperados y los efectivamente alcanzados.
+- **Salarios y productividad:** La comparación entre remuneraciones y resultados comerciales permite explorar la relación entre los costos salariales y el rendimiento de los empleados, sin asumir necesariamente una relación causal.
+- **Variabilidad mensual:** El seguimiento de las variaciones porcentuales permite detectar períodos de crecimiento, estabilidad o contracción de la actividad comercial.
 - **Contribución por subcategoría:** el reporte permite distinguir subcategorías con mayor volumen de unidades, información útil para priorizar el análisis comercial.
-- **Estados de pedidos:** la separación entre pedidos completados, cancelados y devueltos permite diferenciar los resultados efectivos de las operaciones que no terminaron como ventas definitivas.
-- **Tendencias de ventas observadas a lo largo del tiempo.**
+- **Tendencias de ventas observadas a lo largo del tiempo:** El análisis de la evolución temporal de las ventas permite identificar patrones de crecimiento, períodos de fluctuación y posibles cambios en el comportamiento comercial. En términos generales, se observa una tendencia levemente positiva, aunque con variaciones entre períodos, lo que sugiere un crecimiento moderado de la actividad comercial.
 
 ### Oportunidades de mejora
 
@@ -171,7 +173,7 @@ Lotus-Retail/
 
 ## 9. Uso de inteligencia artificial como herramienta de apoyo
 
-Durante el desarrollo del proyecto se utilizó inteligencia artificial de manera complementaria, principalmente como herramienta de consulta, asistencia técnica y verificación en la elaboración de determinadas medidas DAX en Power BI.
+Durante el desarrollo del proyecto se utilizó inteligencia artificial de manera complementaria, principalmente como herramienta de consulta, asistencia técnica y verificación.
 
 Su utilización estuvo orientada a facilitar la comprensión de funciones, contrastar enfoques de cálculo y validar posibles soluciones.
 
